@@ -58,8 +58,8 @@ I help engineering teams adopt AI tools without compromising on security, compli
 ## Selected work
 
 - **[dragonglass-cli](https://github.com/gillisandrew/dragonglass-cli)** — Obsidian plugin manager with provenance verification and SBOM attestations
-- **[attestations-demo](https://github.com/gillisandrew/attestations-demo)** — minimal example of SLSA provenance for build artifacts via GitHub Actions
-- **[linked-past](https://github.com/gillisandrew/linked-past)** — multi-dataset SPARQL tools for AI agents, with scholarly citations
+- **[attestations-demo](https://github.com/gillisandrew/attestations-demo)** — Minimal example of SLSA provenance for build artifacts via GitHub Actions
+- **[linked-past](https://github.com/gillisandrew/linked-past)** — Multi-dataset SPARQL tools for AI agents, with scholarly citations
 
 ## Get in touch
 
