@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Claude Code project settings (should never be committed to a profile repo)
+.claude/
+
+# Node deps (in case site/ scaffolding ever returns)
+node_modules/
