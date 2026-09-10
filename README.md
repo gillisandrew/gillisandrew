@@ -10,8 +10,7 @@ Cloud solutions architect in Montréal, independent for 13 years. I work on AWS 
 
 ## Selected work
 
-- **[dragonglass-poc](https://github.com/gillisandrew/dragonglass-poc)** — Obsidian plugin manager that verifies SLSA provenance and SBOM attestations before installing anything
-- **[attestations-demo](https://github.com/gillisandrew/attestations-demo)** — Minimal GitHub Actions pipeline producing signed build provenance and SBOM attestations for a Go binary
+- **[shard](https://github.com/shard-for-obsidian/shard)** — Plugin system for Obsidian that distributes plugins through GitHub Container Registry with signing and verification
 - **[linked-past](https://github.com/gillisandrew/linked-past)** — MCP server giving AI agents cited, cross-referenced access to eight ancient-world linked-data sets
 - **[dprr-mcp](https://github.com/gillisandrew/dprr-mcp)** — Natural-language SPARQL over the Digital Prosopography of the Roman Republic, with uncertainty flags and source citations
 
